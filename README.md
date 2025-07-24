@@ -1,4 +1,4 @@
-# 🎥 StreamAura
+# 🎥 StreamAura 1.0
 
 
 
