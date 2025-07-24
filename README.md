@@ -71,7 +71,7 @@ You can download StreamAura for Windows 10/11:
 
 
 
-1️⃣ Paste your YouTube Live link (for example : https://www.youtube.com/watch?v=XXXXXXXXXXX)
+1️⃣ Paste your YouTube Live link (for example : https://www.youtube.com/watch?v=XXXXXXXXXXX , or the key which is the XXXXXXXXXXX in the link for example)
 
 2️⃣ Press Submit to launch the transparent overlay.  
 
